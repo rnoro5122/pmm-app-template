@@ -38,4 +38,4 @@ rootProject.name = "PythonAppTemplate"
 
 include(":toolchain")
 include(":pycomposeui")
-//include(":app")
+include(":app")
