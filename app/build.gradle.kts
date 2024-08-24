@@ -55,6 +55,7 @@ chaquopy {
             install("rpds-py")
             install("argon2-cffi-bindings")
             install("jupyter")
+            install("jupyterlab")
         }
     }
 
